@@ -155,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,6 +168,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -624,6 +624,7 @@
       <workItem from="1577263203254" duration="3686000" />
       <workItem from="1577330186155" duration="4519000" />
       <workItem from="1577341300739" duration="2711000" />
+      <workItem from="1577344226786" duration="759000" />
     </task>
     <task id="LOCAL-00001" summary="爱旅行项目">
       <created>1577157356011</created>
@@ -653,7 +654,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577343228423</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="爱旅行项目">
+      <created>1577344300891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577344300891</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -686,7 +694,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134930000" />
+    <option name="totallyTimeSpent" value="135689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,10 +706,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="577" y="22" width="1248" height="1016" extended-state="0" />
+    <frame x="612" y="0" width="1248" height="1038" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5117845" side_tool="true" visible="true" weight="0.29218572" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503367" side_tool="true" visible="true" weight="0.3392265" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3489933" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.31728664" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -720,8 +728,8 @@
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32842582" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48821548" weight="0.29218572" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32997763" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4977612" weight="0.33975086" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25420874" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.496633" visible="true" weight="0.3392265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25841752" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32462686" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1040,9 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1050,9 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="100" column="29" lean-forward="true" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
