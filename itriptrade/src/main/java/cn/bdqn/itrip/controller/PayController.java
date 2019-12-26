@@ -97,8 +97,8 @@ public class PayController {
     @ResponseBody
     public String test() throws IOException {
         Test test1=new Test();
-        String a=test1.getDataByUrl("http://localhost:8082/search");
-        return  a;
+        Object a=test1.getDataByUrl("http://localhost:8083/trade/pay1");
+        return  a.toString();
     }
 
 }
