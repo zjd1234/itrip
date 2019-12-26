@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb61ad7-8a52-4372-996a-d31bdb96d93d" name="Default" comment="" />
+    <list default="true" id="1fb61ad7-8a52-4372-996a-d31bdb96d93d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/itripauth/target/" />
     <ignored path="$PROJECT_DIR$/itriputils/target/" />
@@ -142,8 +144,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="577" />
-    <option name="y" value="22" />
+    <option name="x" value="752" />
+    <option name="y" value="167" />
     <option name="width" value="1248" />
     <option name="height" value="1016" />
   </component>
@@ -622,7 +624,7 @@
       <workItem from="1577255821037" duration="1832000" />
       <workItem from="1577263203254" duration="3686000" />
       <workItem from="1577330186155" duration="4519000" />
-      <workItem from="1577341300739" duration="2153000" />
+      <workItem from="1577341300739" duration="2711000" />
     </task>
     <task id="LOCAL-00001" summary="爱旅行项目">
       <created>1577157356011</created>
@@ -685,7 +687,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134372000" />
+    <option name="totallyTimeSpent" value="134930000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -700,7 +702,7 @@
     <frame x="577" y="22" width="1248" height="1016" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.5117845" side_tool="true" visible="true" weight="0.29218572" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5117845" side_tool="true" visible="true" weight="0.29218572" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3489933" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.31728664" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -720,7 +722,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48821548" weight="0.29218572" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32997763" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4977612" weight="0.33975086" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25420874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25420874" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32462686" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
