@@ -1,0 +1,9 @@
+127.0.0.1 - - [23/Dec/2019:11:52:40 +0800] "POST /search/api/hotellist/searchItripHotelListByHotCity HTTP/1.0" 200 3915 http-bio-8082-exec-1 6898
+127.0.0.1 - - [23/Dec/2019:11:52:40 +0800] "POST /search/api/hotellist/searchItripHotelListByHotCity HTTP/1.0" 200 4105 http-bio-8082-exec-2 6899
+127.0.0.1 - - [23/Dec/2019:11:52:48 +0800] "POST /search/api/hotellist/searchItripHotelListByHotCity HTTP/1.0" 200 3915 http-bio-8082-exec-3 638
+127.0.0.1 - - [23/Dec/2019:11:52:48 +0800] "POST /search/api/hotellist/searchItripHotelListByHotCity HTTP/1.0" 200 4105 http-bio-8082-exec-4 654
+127.0.0.1 - - [23/Dec/2019:11:52:54 +0800] "POST /search/api/hotellist/searchItripHotelPage HTTP/1.0" 500 4967 http-bio-8082-exec-5 360
+127.0.0.1 - - [23/Dec/2019:11:52:57 +0800] "POST /search/api/hotellist/searchItripHotelPage HTTP/1.0" 200 3582 http-bio-8082-exec-6 164
+127.0.0.1 - - [23/Dec/2019:11:53:07 +0800] "POST /search/api/hotellist/searchItripHotelPage HTTP/1.0" 500 4967 http-bio-8082-exec-7 822
+127.0.0.1 - - [23/Dec/2019:11:53:26 +0800] "POST /search/api/hotellist/searchItripHotelPage HTTP/1.0" 200 3582 http-bio-8082-exec-8 36
+127.0.0.1 - - [23/Dec/2019:11:53:35 +0800] "POST /search/api/hotellist/searchItripHotelPage HTTP/1.0" 200 3527 http-bio-8082-exec-9 33

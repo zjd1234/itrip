@@ -1,0 +1,10 @@
+127.0.0.1 - - [06/Dec/2019:11:38:21 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 1007 http-bio-8081-exec-1 114
+127.0.0.1 - - [06/Dec/2019:11:38:21 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 1007 http-bio-8081-exec-2 119
+127.0.0.1 - - [06/Dec/2019:11:38:21 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8081-exec-3 118
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:40:46 +0800] "GET /biz/api/aa HTTP/1.1" 404 971 http-bio-8081-exec-5 4
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:40:46 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-6 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:41:07 +0800] "GET /biz HTTP/1.1" 302 - http-bio-8081-exec-7 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:41:08 +0800] "GET /biz/ HTTP/1.1" 200 52 http-bio-8081-exec-9 648
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:41:12 +0800] "GET /biz/aa HTTP/1.1" 404 963 http-bio-8081-exec-10 3
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:41:47 +0800] "GET /biz/api HTTP/1.1" 404 965 http-bio-8081-exec-10 3
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:11:41:51 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.1" 404 1013 http-bio-8081-exec-10 3
